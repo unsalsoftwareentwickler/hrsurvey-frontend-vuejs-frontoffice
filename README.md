@@ -1,4 +1,4 @@
-# quizplus-client
+# HR Survey Front End VueJS Front Office
 
 ## Project setup
 ```
